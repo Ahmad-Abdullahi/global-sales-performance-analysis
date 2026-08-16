@@ -6,7 +6,7 @@ This repository contains an end-to-end Business Intelligence (BI) project analyz
 The insights derived from this project are designed to empower senior leadership to make data-driven decisions regarding global market expansion, inventory optimization, and targeted marketing allocation.
 
 ## 📊 Dashboard Snapshot
-![Global Sales Performance Dashboard](dashboard.jpg)
+![Global Sales Performance Dashboard](<Global Dashbord_065930.png Performance Sales>)
 
 ## 🛠️ Tools & Technologies Used
 * **Data Visualization & BI Tool:** Microsoft Power BI
