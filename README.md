@@ -1,5 +1,3 @@
-# global-sales-performance-analysis
-End-to-end Business Intelligence analysis and Power BI dashboard for Global Superstore sales and profitability data (2011-2014).
 # Global Superstore Business Intelligence Analysis (2011–2014)
 
 ## Project Overview
@@ -8,7 +6,7 @@ This repository contains an end-to-end Business Intelligence (BI) project analyz
 The insights derived from this project are designed to empower senior leadership to make data-driven decisions regarding global market expansion, inventory optimization, and targeted marketing allocation.
 
 ## 📊 Dashboard Snapshot
-![Global Sales Performance Dashboard](.png)
+![Global Sales Performance Dashboard](dashboard.jpg)
 
 ## 🛠️ Tools & Technologies Used
 * **Data Visualization & BI Tool:** Microsoft Power BI
@@ -40,10 +38,10 @@ Based on the dashboard analysis, the following actions are recommended to maximi
 
 ## 📂 Repository Contents
 * `Global_Sales_Performance_Dashboard.pbix`: The interactive Power BI dashboard file containing the data model, DAX measures, and visualizations.
-* `Business_Intelligence_Overview_Report.pdf`: The comprehensive executive summary detailing the methodology, insights, and business risks.
-* `Dataset`: The raw CSV/Excel files used for the analysis (if applicable).
+* `Executive_Report.pdf`: The high-level C-suite summary detailing the bottom-line financial impact, key performance drivers, and strategic action items.
+* `Dataset`: The raw CSV/Excel files used for the analysis.
 
 ## 👤 Author
 **Abdullahi Ahmad**
 * Data Analytics Intern | AnalystLab Africa
-* (​[https://www.linkedin.com/in/ahmad-abdullahi-a18316402](https://www.linkedin.com/in/ahmad-abdullahi-a18316402))
+* [Connect on LinkedIn](https://www.linkedin.com/in/ahmad-abdullahi-a18316402)
